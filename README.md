@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gdxiro7ozoizbvjjqjggpwtq/bafkreicuy6tr3esmclolilv2usbqhv76kmsldwaz6vbqzt7m6kazquhir4" width="800">
-</p>
+
 <h3>Hallo, mein Name ist Maxim.</h3>
 
 <p>
