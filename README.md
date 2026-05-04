@@ -25,8 +25,6 @@ Active Linux user
 - **Custom Tamagotchi** — fully customizable pet project  
   [![Repo](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/FlBisquit/custom-tomagochi)
 
-- **WatchPay** — frontend + Firebase API project for tracking transactions and charts  
-
 ---
 
 <h4>Tech Stack</h4>
