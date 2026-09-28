@@ -22,9 +22,6 @@ Active Linux user
 - **Flex Messenger** — real-time chat app  
   [![Repo](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/FlBisquit/college-project)
 
-- **Custom Tamagotchi** — fully customizable pet project  
-  [![Repo](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/FlBisquit/custom-tomagochi)
-
 ---
 
 <h4>Tech Stack</h4>
