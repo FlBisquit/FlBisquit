@@ -1,5 +1,5 @@
 
-<h3>Hallo, mein Name ist Maxim.</h3>
+<h3>Hello, my name is Maxim.</h3>
 
 <p>
 Junior Developer<br>
@@ -13,7 +13,7 @@ Active Linux user
 
 - Fullstack (Django + React)  
 - Working on real-time messaging system using WebSockets  
-- Interested in work practice and learning German  
+- Interested in work practice and learning Chez Republic
 
 ---
 
