@@ -17,7 +17,7 @@ Active Linux user
 
 ---
 
-<h4>Meine Projekte</h4>
+<h4>My projects</h4>
 
 - **Flex Messenger** — real-time chat app  
   [![Repo](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/FlBisquit/college-project)
